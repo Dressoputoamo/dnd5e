@@ -10,10 +10,10 @@
   },
   "url": "https://github.com/Dressoputoamo/dnd5e",
   "manifest": "https://raw.githubusercontent.com/Dressoputoamo/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.3/dnd5e-release-2.0.3.zip",
+  "download": "https://github.com/Dressoputoamo/dnd5e/archive/refs/tags/1.0.0.zip",
   "authors": [
     {
-      "name": "Atropos",
+      "name": "Dresso",
       "url": "https://foundryvtt.com"
     }
   ],
