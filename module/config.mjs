@@ -685,6 +685,24 @@ DND5E.damageTypes = {
   psychic: "DND5E.DamagePsychic",
   radiant: "DND5E.DamageRadiant",
   thunder: "DND5E.DamageThunder"
+  melting: "DND5E.DamageMelting",
+  glacial: "DND5E.DamageGlacial",
+  infernal: "DND5E.DamageInfernal",
+  crushing: "DND5E.DamageCrushing",
+  fulminating: "DND5E.DamageFulminating",
+  decaying: "DND5E.DamageDecaying",
+  toxic: "DND5E.DamageToxic",
+  kaleidoscopic: "DND5E.DamageKaleidoscopic",
+  astral: "DND5E.DamageAstral",
+  shattering: "DND5E.DamageShattering",
+  arcane: "DND5E.DamageArcane",
+  truedamage: "DND5E.DamageTrue",
+  nulldamage: "DND5E.DamageNull",
+  bleed: "DND5E.DamageBleed",
+  telluric: "DND5E.DamageTelluric",
+   demolishing: "DND5E.DamageDemolishing",
+  drilling: "DND5E.DamageDrilling",
+  splitting: "DND5E.DamageSplitting"
 };
 preLocalize("damageTypes", { sort: true });
 
@@ -905,6 +923,8 @@ DND5E.weaponTypes = {
   simpleR: "DND5E.WeaponSimpleR",
   martialM: "DND5E.WeaponMartialM",
   martialR: "DND5E.WeaponMartialR",
+  exoticM: "DND5E.WeaponExoticM",
+  exoticR: "DND5E.WeaponExoticR",
   natural: "DND5E.WeaponNatural",
   improv: "DND5E.WeaponImprov",
   siege: "DND5E.WeaponSiege"
@@ -1020,7 +1040,8 @@ DND5E.spellLevels = {
   6: "DND5E.SpellLevel6",
   7: "DND5E.SpellLevel7",
   8: "DND5E.SpellLevel8",
-  9: "DND5E.SpellLevel9"
+  9: "DND5E.SpellLevel9",
+  10: "DND5E.SpellLevel10"
 };
 preLocalize("spellLevels");
 
